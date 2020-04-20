@@ -1,0 +1,21 @@
+/bootstrap
+/vendor
+.DS_Store
+
+.env
+.env.*.php
+.env.php
+php_errors.log
+nginx-error.log
+nginx-access.log
+nginx-ssl.access.log
+nginx-ssl.error.log
+
+composer.lock
+.htaccess
+# for netbeans
+nbproject
+plugins/october/drivers/vendor
+/node_modules
+package-lock.json
+/basedatossql
